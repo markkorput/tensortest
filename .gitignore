@@ -2,3 +2,4 @@ virtualenv
 data/test_large.wav
 data/*
 __pycache__
+_data
